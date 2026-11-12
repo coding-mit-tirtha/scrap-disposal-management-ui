@@ -14,8 +14,8 @@ An enterprise-grade, secure web portal engineered to digitize and govern the com
 ### 1. Secure Authentication & Portal Entry
 *ISO 27001 certified gateway with role-based enterprise authentication and built-in Dark/Light theme switching.*
 <p align="center">
-  <img src="./src/assets/login-screen(dark).png" alt="Authorized Portal Login" width="85%"/>
-  <img src="./src/assets/login-screen(light).png" alt="Authorized Portal Login" width="85%"/>
+  <img src="./src/assets/login-screen-dark.png" alt="Authorized Portal Login (Dark)" width="85%"/>
+  <img src="./src/assets/login-screen-light.png" alt="Authorized Portal Login (Light)" width="85%"/>
 </p>
 
 ### 2. Active Scrap Disposal Queue (`/home`)
