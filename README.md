@@ -1,4 +1,4 @@
-# Scrap Disposal & Asset Management (SDM) System
+# Scrap Disposal & Asset Management (SDM) System 
 
 ![ISO 27001 Certified](https://img.shields.io/badge/Security-ISO%2027001%20Certified-blue?style=for-the-badge&logo=security)
 ![React](https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -9,12 +9,13 @@ An enterprise-grade, secure web portal engineered to digitize and govern the com
 
 ---
 
-## 🖼️ Application Interface & Preview
+## 🖼️ Application Interface & Preview 
 
 ### 1. Secure Authentication & Portal Entry
 *ISO 27001 certified gateway with role-based enterprise authentication and built-in Dark/Light theme switching.*
 <p align="center">
-  <img src="./src/assets/login-screen.png" alt="Authorized Portal Login" width="85%"/>
+  <img src="./src/assets/login-screen(dark).png" alt="Authorized Portal Login" width="85%"/>
+  <img src="./src/assets/login-screen(light).png" alt="Authorized Portal Login" width="85%"/>
 </p>
 
 ### 2. Active Scrap Disposal Queue (`/home`)
